@@ -492,6 +492,12 @@ github.com/opencontainers/runtime-spec/specs-go
 github.com/opencontainers/selinux/go-selinux
 github.com/opencontainers/selinux/go-selinux/label
 github.com/opencontainers/selinux/pkg/pwalk
+# github.com/oracle/oci-go-sdk/v43 v43.1.0
+## explicit
+github.com/oracle/oci-go-sdk/v43/common
+github.com/oracle/oci-go-sdk/v43/common/auth
+github.com/oracle/oci-go-sdk/v43/containerengine
+github.com/oracle/oci-go-sdk/v43/core
 # github.com/pkg/errors v0.9.1
 ## explicit
 github.com/pkg/errors
