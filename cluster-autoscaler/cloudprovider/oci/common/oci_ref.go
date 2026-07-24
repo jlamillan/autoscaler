@@ -5,7 +5,6 @@ Copyright 2021-2023 Oracle and/or its affiliates.
 package common
 
 import (
-	apiv1 "k8s.io/api/core/v1"
 	"strings"
 
 	apiv1 "k8s.io/api/core/v1"
